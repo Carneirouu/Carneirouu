@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Matheus Carneiro 👋
 
-<!--
-**Carneirouu/Carneirouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Em transição de carreira para Desenvolvimento de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Experiência profissional em análise de dados, controle de qualidade e resolução de problemas em ambiente laboratorial
+
+---
+
+## Atualmente estudando
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git e GitHub
+- SQL
+- Estruturas de Dados
+- Desenvolvimento Full Stack
+
+---
+
+## Objetivos
+
+Construir uma carreira em tecnologia desenvolvendo soluções que unam raciocínio analítico, resolução de problemas e desenvolvimento de software.
+
+---
+
+## Contato
+
+LinkedIn: www.linkedin.com/in/matheusbcarneiro
+
+Email: carneiromatheus943@gmail.com
